@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*~
+
+autoscan.log
+configure.scan
+
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-xxdd
